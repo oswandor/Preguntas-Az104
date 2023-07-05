@@ -396,3 +396,17 @@ Solución: cree un script de PowerShell que ejecute el cmdlet New-AzureADMSInvit
 B. No
 
 
+
+
+tiene una suscripción de Azure denominada Subscription1 que contiene un grupo de recursos denominado RG1.
+En RG1, se crea un equilibrador de carga interno denominado LB1 y un equilibrador de carga público denominado LB2.
+Debe asegurarse de que un administrador denominado Admin1 pueda administrar LB1 y LB2. La solución debe seguir el principio del privilegio mínimo.
+¿Qué rol debe asignar a Admin1 para cada tarea? Para responder, seleccione las opciones apropiadas en el área de respuesta.
+NOTA: Cada selección correcta vale un punto.
+Zona caliente:
+
+
+![Alt text](image-2.png)
+
+
+
