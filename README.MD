@@ -212,3 +212,21 @@ Seleccione y coloque:
 
 
 ![Alt text](image-1.png)
+
+
+
+
+
+La suscripción de Azure de su empresa incluye dos redes de Azure denominadas VirtualNetworkA y VirtualNetworkB.
+VirtualNetworkA incluye una puerta de enlace VPN que está configurada para hacer uso del enrutamiento estático. Además, existe una conexión VPN de sitio a sitio entre la red local de su empresa y VirtualNetworkA.
+Ha configurado una conexión VPN de punto a sitio a VirtualNetworkA desde una estación de trabajo que ejecuta Windows 10. Después de configurar el emparejamiento de red virtual entre
+VirtualNetworkA y VirtualNetworkB, confirma que puede tener acceso a VirtualNetworkB desde la red local de la empresa. Sin embargo, encuentra que no puede establecer una conexión a VirtualNetworkB desde la estación de trabajo de Windows 10.
+Debe asegurarse de que se pueda establecer una conexión a VirtualNetworkB desde la estación de trabajo con Windows 10.
+Solución: descargue y vuelva a instalar el paquete de configuración del cliente VPN en la estación de trabajo con Windows 10.
+
+
+¿La solución cumple con el objetivo?
+
+>A. Sí Más votados
+
+B. No
