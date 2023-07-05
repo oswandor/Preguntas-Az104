@@ -163,3 +163,52 @@ Seleccione y coloque:
 
 ![Alt text](image.png)
 
+
+
+
+Su empresa tiene un inquilino de Azure Active Directory (Azure AD) configurado para la coexistencia híbrida con el dominio local de Active Directory.
+El entorno virtual local consta de máquinas virtuales (VM) que se ejecutan en servidores host Hyper-V de Windows Server 2012 R2.
+Ha creado algunos scripts de PowerShell para automatizar la configuración de máquinas virtuales recién creadas. Tiene previsto crear varias máquinas virtuales nuevas.Necesita una solución que garantice que los scripts se ejecutan en las nuevas máquinas virtuales.
+
+¿Cuál de las siguientes es la mejor solución?
+
+>A. Configure un archivo por lotes SetupComplete.cmd en el directorio %windir%\setup\scripts.
+
+B. Configure un objeto de directiva de grupo (GPO) para ejecutar los scripts como scripts de inicio de sesión.
+
+C. Configure un objeto de directiva de grupo (GPO) para ejecutar los scripts como scripts de inicio.
+
+D. Coloque los scripts en un nuevo disco duro virtual (VHD).
+
+
+
+
+
+
+Su empresa tiene un inquilino de Azure Active Directory (Azure AD) configurado para la coexistencia híbrida con el dominio local de Active Directory.
+Planea implementar varias máquinas virtuales (VM) nuevas en Azure. Las máquinas virtuales tendrán el mismo sistema operativo y requisitos de software personalizados.
+Configure una máquina virtual de referencia en el entorno virtual local. A continuación, generalice la máquina virtual para crear una imagen.
+Debe cargar la imagen en Azure para asegurarse de que está disponible para su selección al crear las nuevas máquinas virtuales de Azure.
+
+¿Qué cmdlets de PowerShell debe usar?
+
+A. Add-AzVM
+
+>B. Add-AzVhd Más votados
+
+C. Add-AzImage
+
+D. Add-AzImageDataDisk
+
+
+
+
+ARRASTRAR SUÉLTELO:
+su empresa tiene una suscripción de Azure que incluye varias máquinas virtuales (VM) de Azure, que forman parte de la misma red virtual.
+Su empresa también tiene un servidor Hyper-V local que hospeda una máquina virtual, denominada VM1, que debe replicarse en Azure.
+
+¿Cuál de los siguientes objetos que se deben crear para lograr este objetivo? Responda arrastrando la opción correcta de la lista al área de respuesta.
+Seleccione y coloque:
+
+
+![Alt text](image-1.png)
