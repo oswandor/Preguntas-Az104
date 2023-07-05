@@ -475,7 +475,7 @@ D. Puede crear servidores SQL de Azure en cualquier grupo de recursos dentro de 
 
 
 
-Tiene una suscripción de Azure denominada AZPT1 que contiene los recursos que se muestran en la tabla siguiente:
+ Tiene una suscripción de Azure denominada AZPT1 que contiene los recursos que se muestran en la tabla siguiente:
 
 ![Alt text](image-8.png)
 
@@ -491,3 +491,39 @@ B. VM1 y VM1Sólo administrado
 >C. VM1, almacenamiento1, VNET1, VM1Managed y RVAULT1 Más votados
 
 D. Sólo RVAULT1
+
+
+
+
+
+
+
+Recientemente ha creado una nueva suscripción de Azure que contiene un usuario denominado Admin1.
+Admin1 intenta implementar un recurso de Azure Marketplace mediante una plantilla de Azure Resource Manager. Admin1 implementa la plantilla mediante Azure
+PowerShell y recibe el siguiente mensaje de error: 'Error de validación del usuario para comprar recursos. Mensaje de error: 'No se han aceptado los términos legales para este artículo en esta suscripción. Para aceptar los términos legales, vaya a Azure Portal (http://go.microsoft.com/fwlink/?LinkId=534873) y configure la implementación mediante programación para el elemento de Marketplace o créelo allí por primera vez.'
+Debe asegurarse de que Admin1 pueda implementar correctamente el recurso de Marketplace.
+
+¿Qué debe hacer?
+
+A. En Azure PowerShell, ejecute el cmdlet Set-AzApiManagementSubscription
+
+B. En Azure Portal, registre el proveedor de recursos Microsoft.Marketplace
+
+>C. Desde Azure PowerShell, ejecute el cmdlet Set-AzMarketplaceTerms Más votados
+
+D. Desde Azure Portal, asigne el rol Administrador de facturación a Admin1
+
+
+
+
+Tiene un inquilino de Azure Active Directory (Azure AD) que contiene 5.000 cuentas de usuario.
+Crear una nueva cuenta de usuario denominada AdminUser1.
+Debe asignar el rol administrativo Administrador de usuarios a AdminUser1.
+
+¿Qué debe hacer desde las propiedades de la cuenta de usuario?
+
+A. En la hoja Licencias, asigne una nueva licencia
+
+> B. En la hoja Rol Directorio, modifique el rol Directorio Más votados
+
+C. En la hoja Grupos, invite a la cuenta de usuario a un nuevo grupo
