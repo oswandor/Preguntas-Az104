@@ -410,3 +410,32 @@ Zona caliente:
 
 
 
+Tiene una suscripción de Azure que contiene un inquilino de Azure Active Directory (Azure AD) denominado contoso.com y un clúster de Azure Kubernetes Service (AKS) denominado AKS1.
+Un administrador informa de que no puede conceder acceso a AKS1 a los usuarios de contoso.com.
+Debe asegurarse de que se pueda conceder acceso a AKS1 a los usuarios contoso.com.
+
+¿Qué debes hacer primero?
+
+A. Desde contoso.com, modifique la configuración de relaciones de la organización.
+
+B. Desde contoso.com, cree un extremo de autorización de OAuth 2.0. Más votados
+
+C. Vuelva a crear AKS1.
+
+D. En AKS1, cree un espacio de nombres.
+
+
+
+HOTSPOT
+: tiene un inquilino de Azure Active Directory (Azure AD) denominado contoso.com que contiene los usuarios que se muestran en la tabla siguiente:
+
+
+![Alt text](image-3.png)
+
+
+User3 es el propietario de Group1.
+Group2 es miembro de Group1.
+Configure una revisión de Access denominada Review1 como se muestra en la siguiente exposición:
+
+
+![Alt text](image-4.png)
