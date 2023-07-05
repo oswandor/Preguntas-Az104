@@ -418,7 +418,7 @@ Debe asegurarse de que se pueda conceder acceso a AKS1 a los usuarios contoso.co
 
 A. Desde contoso.com, modifique la configuración de relaciones de la organización.
 
-B. Desde contoso.com, cree un extremo de autorización de OAuth 2.0. Más votados
+>B. Desde contoso.com, cree un extremo de autorización de OAuth 2.0. Más votados
 
 C. Vuelva a crear AKS1.
 
@@ -437,5 +437,25 @@ User3 es el propietario de Group1.
 Group2 es miembro de Group1.
 Configure una revisión de Access denominada Review1 como se muestra en la siguiente exposición:
 
+![Alt text](image-5.png)
 
-![Alt text](image-4.png)
+
+
+
+HOTSPOT -
+Tiene los grupos de administración de Azure que se muestran en la tabla siguiente:Agregar suscripciones de Azure a los grupos de administración como se muestra en la tabla siguiente:Crear las directivas de Azure que se muestran en la tabla siguiente:
+
+
+
+
+
+Para cada una de las siguientes instrucciones, seleccione Sí si la instrucción es true. De lo contrario, seleccione No.NOTA: Cada selección correcta vale un punto.
+
+Zona caliente:
+
+
+![Alt text](image-6.png)
+
+
+
+
