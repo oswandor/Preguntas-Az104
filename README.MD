@@ -230,3 +230,169 @@ Solución: descargue y vuelva a instalar el paquete de configuración del client
 >A. Sí Más votados
 
 B. No
+
+
+
+
+Su empresa tiene máquinas virtuales (VM) hospedadas en Microsoft Azure. Las máquinas virtuales se encuentran en una única red virtual de Azure denominada VNet1.
+La empresa tiene usuarios que trabajan de forma remota. Los trabajadores remotos requieren acceso a las máquinas virtuales en VNet1.
+
+Debe proporcionar acceso a los trabajadores remotos.
+¿Qué debe hacer?
+
+A. Configure una VPN de sitio a sitio (S2S).
+
+B. Configure una VPN de red virtual a red virtual.
+
+>C. Configure una VPN de punto a sitio (P2S). Más votados
+
+D. Configurar DirectAccess en una máquina virtual de servidor de Windows Server 2012.
+
+E. Configurar una VPN multisitio
+
+
+
+
+
+Nota: La pregunta se incluye en una serie de preguntas que representan la configuración idéntica. Sin embargo, cada pregunta tiene un resultado distintivo. Establezca si la solución satisface los requisitos.
+Su empresa tiene un grupo de disponibilidad Always On de Microsoft SQL Server configurado en sus máquinas virtuales (VM) de Azure.
+Debe configurar un equilibrador de carga interno de Azure como agente de escucha para el grupo de disponibilidad.
+Solución: habilite la IP flotante.
+
+¿La solución cumple con el objetivo?
+
+>A. Sí Más votados
+
+B. No
+
+
+
+
+
+Su empresa tiene dos servidores locales denominados SRV01 y SRV02. Los desarrolladores han creado una aplicación que se ejecuta en SRV01. La aplicación llama a un servicio en SRV02 por dirección IP.
+Tiene previsto migrar la aplicación en máquinas virtuales (VM) de Azure. Ha configurado dos máquinas virtuales en una sola subred de una red virtual de Azure.
+Debe configurar las dos máquinas virtuales con direcciones IP internas estáticas.
+
+¿Qué debe hacer?
+
+A. Ejecute el cmdlet New-AzureRMVMConfig PowerShell.
+
+B. Ejecute el cmdlet de PowerShell Set-AzureSubnet.
+
+C. Modifique las propiedades de la máquina virtual en el Portal de administración de Azure.
+
+D. Modifique las propiedades IP en el Centro de redes y recursos compartidos de Windows.
+
+>E. Ejecute el cmdlet de PowerShell Set-AzureStaticVNetIP.
+
+
+
+
+
+Su empresa tiene una suscripción a Azure Active Directory (Azure AD).
+Debe implementar cinco máquinas virtuales (VM) en la subred de red virtual de su empresa.
+Cada máquina virtual tendrá una dirección IP pública y privada. Las reglas de seguridad de entrada y salida para todas estas máquinas virtuales deben ser idénticas.
+
+¿Cuál de las siguientes es la menor cantidad de interfaces de red necesarias para esta configuración?
+
+>A. 5 Más votados
+
+B. 10
+
+C. 20
+
+D. 40
+
+
+
+Su empresa tiene una suscripción a Azure Active Directory (Azure AD).
+Debe implementar cinco máquinas virtuales (VM) en la subred de red virtual de su empresa.
+Cada máquina virtual tendrá una dirección IP pública y privada. Las reglas de seguridad de entrada y salida para todas estas máquinas virtuales deben ser idénticas.
+
+¿Cuál de las siguientes es la menor cantidad de grupos de seguridad necesarios para esta configuración?
+
+>A. 4
+
+B. 3
+
+C. 2
+
+D. 1
+
+
+
+
+La suscripción de Azure de su empresa incluye máquinas virtuales (VM) de Azure que ejecutan Windows Server 2016.
+Se realiza una copia de seguridad de una de las máquinas virtuales todos los días mediante Restauración instantánea de Copia de seguridad de Azure.
+Cuando la máquina virtual se infecta con ransomware de cifrado de datos, decide recuperar los archivos de la máquina virtual.
+
+
+¿Cuál de las siguientes opciones es VERDADERA en este escenario?
+
+Un. Solo puede recuperar los archivos en la máquina virtual infectada.
+
+>B. Puede recuperar los archivos en cualquier máquina virtual dentro de la suscripción de la empresa. Más votados
+
+C. Solo puede recuperar los archivos en una nueva máquina virtual.
+
+D. No podrá recuperar los archivos.
+
+
+
+
+
+La suscripción de Azure de su empresa incluye máquinas virtuales (VM) de Azure que ejecutan Windows Server 2016.
+Se realiza una copia de seguridad de una de las máquinas virtuales todos los días mediante Restauración instantánea de Copia de seguridad de Azure.
+Cuando la máquina virtual se infecta con ransomware de cifrado de datos, debe restaurar la máquina virtual.
+
+¿Cuál de las siguientes acciones debería tomar?
+
+A. Debe restaurar la máquina virtual después de eliminar la máquina virtual infectada.
+
+>B. Debe restaurar la máquina virtual en cualquier máquina virtual dentro de la suscripción de la empresa.
+
+C. Debe restaurar la máquina virtual en una nueva máquina virtual de Azure. Más votados
+
+D. Debe restaurar la máquina virtual en un dispositivo Windows local.
+
+
+
+
+
+Administrar una solución en Azure que actualmente tiene problemas de rendimiento.
+Debe encontrar la causa de los problemas de rendimiento relacionados con las métricas en la infraestructura de Azure.
+
+¿Cuál de las siguientes es la herramienta que debe usar?
+
+A. Análisis de tráfico de Azure
+
+>B. Azure Monitor Más votados
+
+C. Registro de actividad de Azure
+
+D. Azure Advisor
+
+
+
+Su empresa tiene una suscripción de Azure que incluye un almacén de Recovery Services.
+Desea usar Copia de seguridad de Azure para programar una copia de seguridad de las máquinas virtuales (VM) de su empresa en el almacén de Recovery Services.
+¿De cuál de las siguientes máquinas virtuales puede hacer una copia de seguridad? Elija todas las que correspondan.
+
+
+> Respuesta correcta: ABCDE 🗳️
+
+
+
+Después de responder a una pregunta de esta sección, NO podrá volver a ella. Como resultado, estas preguntas no aparecerán en la pantalla de revisión.
+Tiene un inquilino de Azure Active Directory (Azure AD) denominado contoso.com.
+Tiene un archivo CSV que contiene los nombres y direcciones de correo electrónico de 500 usuarios externos.
+Debe crear una cuenta de usuario invitado en contoso.com para cada uno de los 500 usuarios externos.
+Solución: cree un script de PowerShell que ejecute el cmdlet New-AzureADMSInvitation para cada usuario externo.
+
+¿Esto cumple con el objetivo?
+
+>A. Sí Más votados
+
+B. No
+
+
