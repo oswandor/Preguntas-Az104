@@ -671,3 +671,86 @@ D. RRSIG
 
 
 
+
+
+
+
+Tiene un inquilino de Azure Directory (Azure AD) denominado Adatum y una suscripción de Azure denominada Subscription1. Adatum contiene un grupo denominado Desarrolladores.
+Subscription1 contiene un grupo de recursos denominado Dev.Debe proporcionar al grupo Desarrolladores la capacidad de crear aplicaciones lógicas de Azure en el grupo de recursos Dev.
+
+Solución: en Dev, asigne el rol Colaborador al grupo Desarrolladores.
+¿Esto cumple con el objetivo?
+
+>A. Sí Más votados
+
+B. No
+
+
+
+
+ARRASTRAR SOLTAR:
+tiene una suscripción de Azure que usan cuatro departamentos de la empresa. La suscripción contiene 10 grupos de recursos. Cada departamento utiliza recursos en varios grupos de recursos.
+Debe enviar un informe al departamento de finanzas. El informe debe detallar los costos para cada departamento.
+
+¿Qué tres acciones debe realizar en secuencia? Para responder, mueva las acciones apropiadas de la lista de acciones al área de respuesta y organícelas en el orden correcto.
+Seleccione y coloque:
+
+![Alt text](image-14.png)
+
+
+
+
+
+
+Tiene una suscripción de Azure denominada Subscription1 que contiene un área de trabajo de Azure Log Analytics denominada Workspace1.
+Debe ver los eventos de error de una tabla denominada Event.
+¿Qué consulta debe ejecutar en Workspace1?
+
+A. Evento Get-Event | donde {$_. EventType == "error"}
+
+>B. buscar en (Evento) "error" Más votados
+
+C. select * from Event where EventType == "error"
+
+D. buscar en (Evento) * | donde EventType -eq "error"
+
+
+
+
+
+HOTSPOT:
+tiene una suscripción de Azure que contiene una red virtual denominada VNET1 en la región Este de EE. UU. 2. Una interfaz de red denominada VM1-NI está conectada a
+VNET1.
+Implemente correctamente la siguiente plantilla de Azure Resource Manager.
+
+
+
+![Alt text](image-15.png)
+
+
+
+![Alt text](image-16.png)
+
+
+
+
+Tiene una suscripción de Azure denominada Subscription1. Subscription1 contiene los grupos de recursos de la tabla siguiente.
+
+
+![Alt text](image-17.png)  
+
+
+
+RG1 tiene una aplicación web llamada WebApp1. WebApp1 se encuentra en Europa Occidental.
+Mover WebApp1 a RG2.
+
+¿Cuál es el efecto de la mudanza?
+
+>A. El plan del Servicio de aplicaciones para WebApp1 permanece en Europa occidental. La directiva2 se aplica a WebApp1. Más votados
+
+B. El plan del Servicio de aplicaciones para WebApp1 se traslada al norte de Europa. La directiva2 se aplica a 
+WebApp1.
+
+C. El plan del Servicio de aplicaciones para WebApp1 permanece en Europa occidental. La directiva1 se aplica a WebApp1.
+
+D. El plan del Servicio de aplicaciones para WebApp1 se traslada al norte de Europa. La directiva1 se aplica a WebApp1.
