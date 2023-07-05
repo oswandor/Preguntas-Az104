@@ -459,6 +459,7 @@ Zona caliente:
 
 
 Tiene una directiva de Azure, como se muestra en el siguiente documento:
+
 ![Alt text](image-7.png)
 
 ¿Cuál es el efecto de la directiva?
@@ -475,11 +476,18 @@ D. Puede crear servidores SQL de Azure en cualquier grupo de recursos dentro de 
 
 
 Tiene una suscripción de Azure denominada AZPT1 que contiene los recursos que se muestran en la tabla siguiente:
+
 ![Alt text](image-8.png)
+
 Crear una nueva suscripción de Azure denominada AZPT2.
 Debe identificar qué recursos se pueden mover a AZPT2.
+
 ¿Qué recursos debe identificar?
-Un. VM1, almacenamiento1, VNET1 y VM1Solo administrado
+
+A. VM1, almacenamiento1, VNET1 y VM1Solo administrado
+
 B. VM1 y VM1Sólo administrado
+
 >C. VM1, almacenamiento1, VNET1, VM1Managed y RVAULT1 Más votados
+
 D. Sólo RVAULT1
