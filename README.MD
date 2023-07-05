@@ -527,3 +527,147 @@ A. En la hoja Licencias, asigne una nueva licencia
 > B. En la hoja Rol Directorio, modifique el rol Directorio Más votados
 
 C. En la hoja Grupos, invite a la cuenta de usuario a un nuevo grupo
+
+
+
+
+Tiene un inquilino de Azure Active Directory (Azure AD) denominado contoso.onmicrosoft.com que contiene 100 cuentas de usuario.
+Compra 10 licencias de Azure AD Premium P2 para el inquilino.
+Debe asegurarse de que 10 usuarios puedan usar todas las características de Azure AD Premium.
+
+¿Qué debe hacer?
+
+>A. En la hoja Licencias de Azure AD, asigne una licencia Más votados
+
+B. En la hoja Grupos de cada usuario, invite a los usuarios a un grupo
+
+C. Desde el dominio de Azure AD, agregue una aplicación empresarial
+
+D. Desde la hoja Rol Directorio de cada usuario, modifique el rol de directorio
+
+
+
+
+
+Tiene una suscripción de Azure denominada Subscription1 y una implementación local de Microsoft System Center Service Manager.
+Subscription1 contiene una máquina virtual denominada VM1.
+Debe asegurarse de que se establece una alerta en Service Manager cuando la cantidad de memoria disponible en VM1 es inferior al 10 por ciento.
+
+¿Qué debes hacer primero?
+
+A. Crear un runbook de automatización
+
+B. Implementar una aplicación de función
+
+>C. Implementar el Conector de administración de servicios de TI (ITSM) Más votados
+
+D. Crear una notificación
+
+
+
+Se registra en Azure Active Directory (Azure AD) Premium P2.
+Debe agregar un usuario denominado admin1@contoso.com como administrador en todos los equipos que se unirán al dominio de Azure AD.
+
+¿Qué debe configurar en Azure AD?
+
+>A. Configuración del dispositivo desde la hoja Dispositivos Más votados
+
+B. Proveedores del servidor blade MFA
+
+C. Configuración de usuario de la hoja Usuarios
+
+D. Configuración general de la hoja Grupos 
+
+
+
+
+
+HOTSPOT:
+tiene un inquilino de Azure Active Directory denominado Contoso.com que incluye los siguientes usuarios:Contoso.com incluye los siguientes dispositivos Windows 10:Crear los siguientes grupos de seguridad en Contoso.com:  
+
+
+
+![Alt text](image-9.png)
+
+
+![Alt text](image-10.png)  
+
+
+![Alt text](image-11.png)  
+
+
+
+![Alt text](image-12.png) 
+
+
+
+
+
+
+Tiene una suscripción de Azure que contiene un grupo de recursos denominado RG26.
+RG26 se establece en la ubicación de Europa Occidental y se utiliza para crear recursos temporales para un proyecto. RG26 contiene los recursos que se muestran en la tabla siguiente.   
+
+
+![Alt text](image-13.png)
+
+
+
+
+
+Se realiza una copia de seguridad de SQLDB01 en RGV1.
+Cuando se completa el proyecto, intenta eliminar RG26 desde Azure Portal. Se produce un error en la eliminación.
+Debe eliminar RG26.
+
+¿Qué debes hacer primero?
+
+A. Eliminar VM1
+
+B. Detener VM1
+
+>C. Detener la copia de seguridad de SQLDB01 Más votados
+
+D. Eliminar sa001
+
+
+
+
+
+
+
+Tiene una suscripción de Azure denominada Subscription1 que contiene una red virtual denominada VNet1. VNet1 está en un grupo de recursos denominado RG1.
+Subscription1 tiene un usuario denominado User1. User1 tiene los siguientes roles:
+
+✑ Seguridad del lector Lector
+de seguridad del administrador
+✑ Debe asegurarse de que el usuario1 pueda asignar el rol de lector
+✑ para VNet1 a otros usuarios.
+
+¿Qué debe hacer?
+
+A. Quite User1 de los roles Lector de seguridad y Lector para Subscription1.
+
+> B. Asigne a User1 el rol de administrador de acceso de usuario para VNet1. Más votados
+
+C. Asigne a User1 el rol Colaborador de red para VNet1.
+
+D. Asigne a User1 el rol Network Contributor para RG1.
+
+
+
+
+ene un inquilino de Azure Active Directory (Azure AD) denominado contosocloud.onmicrosoft.com.
+Su empresa tiene una zona DNS pública para contoso.com.
+Agregar contoso.com como un nombre de dominio personalizado a Azure AD.Debe asegurarse de que Azure puede comprobar el nombre de dominio.
+
+¿Qué tipo de registro DNS debe crear?
+
+>A. MX Más votados
+
+B. NSEC
+
+C. NAD
+
+D. RRSIG
+
+
+
