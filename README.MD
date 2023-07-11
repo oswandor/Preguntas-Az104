@@ -753,8 +753,11 @@ Mover WebApp1 a RG2.
 
 
 >A. El plan del Servicio de aplicaciones para WebApp1 permanece en Europa occidental. La directiva2 se aplica a WebApp1.
+
 B. El plan del Servicio de aplicaciones para WebApp1 se traslada al norte de Europa. La directiva2 se aplica a WebApp1.
+
 C. El plan del Servicio de aplicaciones para WebApp1 permanece en Europa occidental. La directiva1 se aplica a WebApp1.
+
 D. El plan del Servicio de aplicaciones para WebApp1 se traslada al norte de Europa. La directiva1 se aplica a WebApp1.
  
 
@@ -768,10 +771,15 @@ Debe asegurarse de que las conexiones a App1 estén distribuidas en todas las m�
 
 ¿Cuáles son los dos posibles servicios de Azure que puede usar? Cada respuesta correcta presenta una solución completa.
 NOTA: Cada selección correcta vale un punto.
+
 >A. Un equilibrador de carga interno
+
 B. Un equilibrador de carga público
+
 C. una red de entrega de contenido (CDN) de Azure
+
 D. Administrador de tráfico
+
 >E. una puerta de enlace de aplicaciones de Azure
 
 
@@ -782,8 +790,11 @@ Debe identificar rápidamente las máquinas virtuales infrautilizadas cuyo nivel
 
 
 A. Monitor
+
 >B. Advisor Most Voted
+
 C. Metrics
+
 D. Customer insights
 
 
@@ -810,6 +821,9 @@ Debe asegurarse de que Admin1 pueda invitar al socio externo a iniciar sesión e
 
 
 >A. En la hoja Configuración de usuarios, modifique la configuración de colaboración externa. Más votados
+
 B. En la hoja Nombres de dominio personalizados, agregue un dominio personalizado.
+
 C. En la hoja Relaciones organizativas, agregue un proveedor de identidades.
+
 D. En la hoja Roles y administradores, asigne el rol Administrador de seguridad a Admin1.
