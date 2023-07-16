@@ -1036,3 +1036,328 @@ Zona caliente:
 
 ![Alt text](image-34.png)
 
+
+
+HOTSPOT:
+64# tiene los recursos de Azure que se muestran en la siguiente exposición.
+
+![Alt text](image-35.png)  
+
+Planea realizar un seguimiento del uso de recursos y evitar la eliminación de recursos.
+¿A qué recursos se pueden aplicar bloqueos y etiquetas? Para responder, seleccione las opciones apropiadas en el área de respuesta.
+
+NOTA: Cada selección correcta vale un punto.
+Zona caliente: 
+
+
+![Alt text](image-36.png)
+
+
+
+
+65# Tiene un inquilino de Azure Active Directory (Azure AD).
+Tiene previsto eliminar varios usuarios mediante la eliminación masiva en el Centro de administración de Azure Active Directory.
+Debe crear y cargar un archivo para la eliminación masiva.
+
+¿Qué atributos de usuario debe incluir en el archivo?
+
+A. El nombre principal de usuario y la ubicación de uso de cada usuario solamente
+
+>B. El nombre principal de usuario de cada usuario solamente Más votados
+
+C. El nombre para mostrar de cada usuario solamente
+
+D. El nombre para mostrar y la ubicación de uso de cada usuario solamente
+
+E. El nombre para mostrar y el nombre principal de usuario de cada usuario solamente
+
+
+
+
+66#HOTSPOT:
+tiene una suscripción de Azure denominada Sub1 que contiene los recursos de Azure que se muestran en la tabla siguiente.
+![Alt text](image-37.png)
+Asigne una directiva de Azure que tenga la siguiente configuración: Ámbito: Sub1 Exclusiones: Sub1/RG1/VNET1
+✑
+✑ Definición de directiva: anexar una etiqueta y su valor a los recursos Aplicación de directivas: Habilitado
+✑ Nombre de etiqueta: Tag4 Valor de etiqueta:
+✑ value4
+✑
+Las etiquetas se asignan a los recursos
+✑ como se muestra en la tabla siguiente.
+![Alt text](image-38.png)
+Para cada una de las siguientes instrucciones, seleccione Sí si la instrucción es verdadera. De lo contrario, seleccione No.NOTA: Cada selección correcta vale un punto.
+
+Zona caliente:
+
+![Alt text](image-39.png)
+
+
+
+67#Nota: Esta pregunta es parte de una serie de preguntas que presentan el mismo escenario. Cada pregunta de la serie contiene una solución única que podría cumplir con los objetivos establecidos. Algunos conjuntos de preguntas pueden tener más de una solución correcta, mientras que otros pueden no tener una solución correcta.
+Después de responder a una pregunta de esta sección, NO podrá volver a ella. Como resultado, estas preguntas no aparecerán en la pantalla de revisión.
+Debe asegurarse de que un usuario de Azure Active Directory (Azure AD) denominado Admin1 tenga asignado el rol necesario para habilitar Análisis de tráfico para una suscripción de Azure.
+Solución: asigne el rol Colaborador del administrador de tráfico en el nivel de suscripción a Admin1.
+¿Esto cumple con el objetivo?
+
+A. Sí
+
+>B. No M
+
+
+
+
+68# Tiene tres oficinas y una suscripción de Azure que contiene un inquilino de Azure Active Directory (Azure AD).
+Debe conceder permisos de administración de usuarios a un administrador local en cada oficina.
+¿Qué debes usar?
+
+A. Roles de Azure AD
+
+>B. Unidades administrativas Más votados
+
+C. paquetes de acceso en la administración de derechos de Azure AD
+
+D. Roles de Azure
+
+
+
+
+69# Tiene un inquilino de Azure Directory (Azure AD) denominado Adatum y una suscripción de Azure denominada Subscription1. Adatum contiene un grupo denominado Desarrolladores.
+Subscription1 contiene un grupo de recursos denominado Dev.Debe proporcionar al grupo Desarrolladores la capacidad de crear aplicaciones lógicas de Azure en el grupo de recursos Dev.
+
+Solución: en Dev, asigne el rol Colaborador de aplicaciones lógicas al grupo Desarrolladores.
+¿Esto cumple con el objetivo?
+
+>A. Sí
+
+B. No
+
+
+
+70# HOTSPOT:
+tiene un equilibrador de carga de Azure denominado LB1.
+Asigne a un usuario denominado User1 las funciones que se muestran en la siguiente exposición.
+
+![Alt text](image-40.png)
+
+Utilice los menús desplegables para seleccionar la opción de respuesta que completa cada declaración en función de la información presentada en el gráfico.
+NOTA: Cada selección correcta vale un punto.
+Zona caliente: 
+
+
+![Alt text](image-41.png)
+
+
+71# 
+Tiene una suscripción de Azure denominada Subscription1 que contiene una red virtual denominada VNet1. VNet1 está en un grupo de recursos denominado RG1.
+Subscription1 tiene un usuario denominado User1. User1 tiene los siguientes roles:
+✑ Seguridad del lector Lector
+de seguridad del administrador
+✑ Debe asegurarse de que el usuario1 pueda asignar el rol de lector
+✑ para VNet1 a otros usuarios.
+¿Qué debe hacer?
+
+A. Quite User1 del rol Lector de seguridad para Subscription1. Asigne a User1 el rol Contributor para RG1.
+
+>B. Asigne a User1 el rol Owner para VNet1. Más votados
+
+C. Asigne a User1 el rol Contributor para VNet1.
+
+D. Asigne a User1 el rol Colaborador de red para VNet1.
+
+
+
+
+
+
+72# HOTSPOT -
+Usted configura el rol personalizado que se muestra en la siguiente exhibición.
+
+![Alt text](image-42.png) 
+
+Utilice los menús desplegables para seleccionar la opción de respuesta que completa cada declaración en función de la información presentada en el gráfico.
+NOTA: Cada selección correcta vale un punto.
+Zona caliente:
+
+![Alt text](image-43.png)
+
+
+73# Tiene una suscripción de Azure que contiene una cuenta de almacenamiento denominada storage1. La cuenta storage1 contiene un recurso compartido de archivos denominado share1.
+La suscripción está vinculada a un inquilino híbrido de Azure Active Directory (Azure AD) que contiene un grupo de seguridad denominado Group1.
+Debe conceder a Group1 el rol Storage File Data SMB Share Elevated Contributor para share1.
+¿Qué debes hacer primero?
+
+>A. Habilite la autenticación del Servicio de dominio de Active Directory (AD DS) para el almacenamiento1. Más votados
+
+B. Conceda permisos de nivel de recurso compartido mediante el Explorador de archivos.
+
+C. Monte share1 mediante el Explorador de archivos.
+
+D. Cree un punto de enlace privado.
+
+
+
+74# Tiene 15 suscripciones de Azure.
+Tiene un inquilino de Azure Active Directory (Azure AD) que contiene un grupo de seguridad denominado Group1.
+Tiene previsto adquirir una suscripción adicional de Azure.
+
+Debe asegurarse de que Group1 pueda administrar las asignaciones de roles para las suscripciones existentes y las suscripciones planificadas. La solución debe cumplir los siguientes requisitos:
+✑ Utilice el principio de privilegios mínimos.
+✑ Minimice el esfuerzo administrativo.
+
+¿Qué debe hacer?
+
+A. Asigne a Group1 el rol Propietario para el grupo de administración raíz.
+
+>B. Asigne a Group1 el rol de administrador de acceso de usuarios para el grupo de administración raíz. Más votados
+
+C. Cree un nuevo grupo de administración y asigne a Group1 el rol de administrador de acceso de usuarios para el grupo.
+
+D. Cree un nuevo grupo de administración y asigne a Grupo1 el rol Propietario del grupo.
+ 
+
+
+
+
+75# 
+HOTSPOT
+: tiene una suscripción de Azure que contiene la jerarquía que se muestra en la siguiente exposición.
+
+![Alt text](image-44.png)
+
+
+Cree una definición de directiva de Azure denominada Policy1.
+¿A qué recursos de Azure puede asignar Policy1 y qué recursos de Azure puede especificar como exclusiones de Policy1? Para responder, seleccione las opciones apropiadas en el área de respuesta.
+NOTA: Cada selección correcta vale un punto.
+Zona caliente:  
+
+
+![Alt text](image-45.png) 
+
+
+76# Tiene una suscripción de Azure que contiene los siguientes usuarios en un inquilino de Azure Active Directory denominado contoso.onmicrosoft.com:
+
+![Alt text](image-46.png)
+
+
+User1 crea un nuevo inquilino de Azure Active Directory denominado external.contoso.onmicrosoft.com.
+Debe crear nuevas cuentas de usuario en external.contoso.onmicrosoft.com.
+Solución: indique a User2 que cree las cuentas de usuario.
+
+¿Eso cumple con el objetivo?
+
+>A. Sí Más votados
+
+B. No M
+
+
+77# Tiene dos suscripciones de Azure denominadas Sub1 y Sub2.
+Un administrador crea un rol personalizado que tiene un ámbito asignable a un grupo de recursos denominado RG1 en Sub1.
+Debe asegurarse de que puede aplicar el rol personalizado a cualquier grupo de recursos en Sub1 y Sub2. La solución debe minimizar el esfuerzo administrativo.
+¿Qué debe hacer?
+
+>A. Seleccione el rol personalizado y agregue Sub1 y Sub2 a los ámbitos asignables. Quite RG1 de los ámbitos asignables. Más votados
+
+B. Cree un nuevo rol personalizado para Sub1. Cree un nuevo rol personalizado para Sub2. Quite el rol de RG1.
+
+C. Cree un nuevo rol personalizado para Sub1 y agregue Sub2 a los ámbitos asignables. Quite el rol de RG1.
+
+D. Seleccione el rol personalizado y agregue Sub1 a los ámbitos asignables. Quite RG1 de los ámbitos asignables. Cree un nuevo rol personalizado para Sub2.
+
+
+
+78#Tiene una suscripción de Azure que contiene una cuenta de almacenamiento denominada storageacct1234 y dos usuarios denominados User1 y User2.
+Asigne a User1 los roles que se muestran en la siguiente exposición.
+
+
+![Alt text](image-47.png)
+
+¿Qué dos acciones puede realizar User1? Cada respuesta correcta presenta una solución completa.
+NOTA: Cada selección correcta vale un punto.
+
+>A. Asigne roles a User2 para storageacct1234.
+
+B. Cargue datos de blob en storageacct1234. Más votados
+
+C. Modifique el firewall de storageacct1234.
+
+D. Ver datos de blobs en storageacct1234. Más votados
+
+>E. Ver recursos compartidos de archivos en storageacct1234.
+
+
+
+79#Tiene una suscripción de Azure denominada Subscription1 que contiene un área de trabajo de Azure Log Analytics denominada Workspace1.
+
+Debe ver los eventos de error de una tabla denominada Event.
+
+¿Qué consulta debe ejecutar en Workspace1?
+
+A. select * from Event where EventType == "error"
+
+>B. Evento | Buscar "error" Más votados
+
+C. Evento | donde EventType es "error"
+
+D. Evento Get-Event | donde {$_. EventType == "error"}
+
+
+
+
+
+
+
+80# Tiene una aplicación web de Servicios de aplicaciones de Azure denominada App1.
+
+Tiene previsto implementar App1 mediante Web Deploy.
+
+Debe asegurarse de que los desarrolladores de App1 puedan usar sus credenciales de Azure AD para implementar contenido en App1. La solución debe utilizar el principio del privilegio mínimo.
+
+¿Qué debe hacer?
+
+A. Asignar el rol Propietario a los desarrolladores
+
+>B. Configurar credenciales de nivel de aplicación para FTPS
+
+C. Asignar el rol de colaborador del sitio web a los desarrolladores Más votados
+
+D. Configurar credenciales de nivel de usuario para FTPS
+
+
+
+
+
+
+
+
+
+81# Después de responder a una pregunta de esta sección, NO podrá volver a ella. Como resultado, estas preguntas no aparecerán en la pantalla de revisión.
+
+Tiene un inquilino de Azure Active Directory (Azure AD) denominado contoso.com.
+
+Tiene un archivo CSV que contiene los nombres y direcciones de correo electrónico de 500 usuarios externos.
+
+Debe crear una cuenta de usuario invitado en contoso.com para cada uno de los 500 usuarios externos.
+
+Solución: desde Azure AD en Azure Portal, use la operación Invitación masiva a usuarios.
+
+¿Esto cumple con el objetivo?
+
+A. Sí Más votados
+
+>B. No Más votados
+
+
+
+82# 
+tiene una suscripción de Azure vinculada a un inquilino de Azure AD. El inquilino contiene los roles de control de acceso basado en roles (RBAC) personalizados que se muestran en la tabla siguiente.
+
+![Alt text](image-48.png)
+
+Desde Azure Portal, debe crear dos roles personalizados denominados Rol3 y Rol4. El rol 3 será un rol de suscripción de Azure. El rol 4 será un rol de Azure AD.
+
+¿Qué roles puede clonar para crear los nuevos roles? Para responder, seleccione las opciones apropiadas en el área de respuesta.
+
+NOTA: Cada selección correcta vale un punto.
+
+![Alt text](image-49.png)
