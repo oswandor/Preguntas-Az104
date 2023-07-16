@@ -827,3 +827,212 @@ B. En la hoja Nombres de dominio personalizados, agregue un dominio personalizad
 C. En la hoja Relaciones organizativas, agregue un proveedor de identidades.
 
 D. En la hoja Roles y administradores, asigne el rol Administrador de seguridad a Admin1.
+
+
+
+
+52# Tiene una suscripción de Azure vinculada a un inquilino de Azure Active Directory. El inquilino incluye una cuenta de usuario denominada User1.
+Debe asegurarse de que User1 pueda asignar una directiva al grupo de administración raíz de inquilinos.
+¿Qué debe hacer?
+
+A. Asigne el rol Propietario para la suscripción de Azure al usuario1 y, a continuación, modifique las directivas de acceso condicional predeterminadas.
+
+>B. Asigne el rol Propietario de la suscripción de Azure a User1 y, a continuación, indique a User1 que configure la administración de acceso para los recursos de Azure.
+
+C. Asigne el rol de administrador global a User1 y, a continuación, indique a User1 que configure la administración de acceso para los recursos de Azure. Más votados
+
+D. Cree un nuevo grupo de administración y delegue User1 como propietario del nuevo grupo de administración.
+
+
+
+
+53# 
+tiene un inquilino de Azure Active Directory (Azure AD) denominado adatum.com. Adatum.com contiene los grupos de la tabla siguiente.
+![Alt text](image-20.png)
+
+Crear dos cuentas de usuario que se configuran como se muestra en la tabla siguiente.
+![Alt text](image-21.png)
+
+
+¿De qué grupos son miembros User1 y User2? Para responder, seleccione las opciones apropiadas en el área de respuesta.
+NOTA: Cada selección correcta vale un punto.
+Zona caliente:
+
+![Alt text](image-22.png)
+
+
+53# 
+: tiene una implementación híbrida de Azure Active Directory (Azure AD) que contiene los usuarios que se muestran en la tabla siguiente.
+![Alt text](image-23.png)
+Debe modificar los atributos JobTitle y UsageLocation para los usuarios.
+¿Para qué usuarios puede modificar los atributos de Azure AD? Para responder, seleccione las opciones apropiadas en el área de respuesta.
+NOTA: Cada selección correcta vale un punto.
+Zona caliente:
+
+![Alt text](image-24.png)
+
+
+
+
+54# Debe asegurarse de que un usuario de Azure Active Directory (Azure AD) denominado Admin1 tenga asignado el rol necesario para habilitar Análisis de tráfico para una suscripción de Azure.
+Solución: asigne el rol Colaborador de red en el nivel de suscripción a Admin1.
+
+
+¿Esto cumple con el objetivo?
+
+>A. Sí Más votados
+
+B. No
+
+55# 
+Tiene una suscripción de Azure que contiene un usuario denominado User1.
+Debe asegurarse de que User1 pueda implementar máquinas virtuales y administrar redes virtuales. La solución debe utilizar el principio del privilegio mínimo.
+¿Qué rol de control de acceso basado en roles (RBAC) debe asignar a User1?
+
+A. Dueño
+
+B. Colaborador de máquina virtual
+
+>C. Colaborador
+
+D. Inicio de sesión de administrador de máquina virtual
+
+
+
+
+56# tiene un inquilino de Azure Active Directory (Azure AD) que contiene tres administradores globales denominados Admin1, Admin2 y Admin3.
+El inquilino está asociado a una suscripción de Azure. El control de acceso para la suscripción se configura como se muestra en la exposición Control de acceso. (Haga clic en la ficha Control de acceso
+).
+
+![Alt text](image-25.png)
+
+![Alt text](image-26.png)
+
+![Alt text](image-27.png)
+
+
+57# 
+Tiene una suscripción de Azure denominada Subscription1 que contiene una máquina virtual de Azure denominada VM1. VM1 se encuentra en un grupo de recursos denominado RG1.
+VM1 ejecuta servicios que se utilizarán para implementar recursos en RG1.
+Debe asegurarse de que un servicio que se ejecuta en VM1 puede administrar los recursos de RG1 utilizando la identidad de VM1.
+
+¿Qué debes hacer primero?
+
+>A. En Azure Portal, modifique la configuración de identidad administrada de VM1 Más votados
+
+B. Desde Azure Portal, modifique la configuración de control de acceso (IAM) de RG1 Más votados
+
+C. Desde Azure Portal, modifique la configuración de control de acceso (IAM) de VM1
+
+D. En Azure Portal, modifique la configuración de directivas de RG1
+
+
+
+
+58# 
+Tiene una suscripción de Azure que contiene un grupo de recursos denominado TestRG.
+Use TestRG para validar una implementación de Azure.
+TestRG contiene los siguientes recursos:
+
+![Alt text](image-28.png)
+
+Debe eliminar TestRG.
+¿Qué debes hacer primero?
+
+A. Modificar las configuraciones de copia de seguridad de VM1 y modificar el tipo de bloqueo de recursos de VNET1
+
+>B. Quitar el bloqueo de recursos de VNET1 y eliminar todos los datos de Vault1 Más votados
+
+C. Desactive VM1 y quite el bloqueo de recursos de VNET1
+
+D. Desactive VM1 y elimine todos los datos de Vault1
+
+
+
+59# 
+Tiene una zona DNS de Azure denominada adatum.com.
+Debe delegar un subdominio denominado research.adatum.com a un servidor DNS diferente en Azure.
+¿Qué debe hacer?
+
+>A. Cree un registro NS denominado research en la zona adatum.com. Más votados
+
+B. Cree un registro PTR denominado research in the adatum.com zone.
+
+C. Modifique el registro SOA de adatum.com.
+
+D. Cree un registro A denominado *.research en la zona adatum.com.
+
+
+
+ARRASTRAR SOLTAR:
+60# tiene un inquilino de Azure Active Directory (Azure AD) que tiene el nombre de dominio contoso.onmicrosoft.com.
+Tiene un nombre de dominio de contoso.com registrado en un registrador externo.
+Debe asegurarse de que puede crear usuarios de Azure AD que tengan nombres que contengan el sufijo @contoso.com.
+
+¿Qué tres acciones debe realizar en secuencia? Para responder, mueva las acciones apropiadas de la lista de acciones al área de respuesta y organícelas en el orden correcto.
+Seleccione y coloque:
+
+![Alt text](image-29.png)
+
+
+61# 
+Tiene una suscripción de Azure denominada Subscription1 que contiene un área de trabajo de Azure Log Analytics denominada Workspace1.
+Debe ver los eventos de error de una tabla denominada Event.
+
+¿Qué consulta debe ejecutar en Workspace1?
+
+A. Evento Get-Event | donde {$_. EventType == "error"}
+
+>B. Evento | Buscar "error" Más votados
+
+C. select * from Event where EventType == "error"
+
+D. buscar en (Evento) * | donde EventType ג€"eq ג€errorג€
+
+
+61# Tiene un dominio DNS registrado denominado contoso.com.
+Crear una zona DNS de Azure pública denominada contoso.com.
+Debe asegurarse de que los registros creados en la zona contoso.com se puedan resolver desde Internet.
+¿Qué debe hacer?
+
+A. Crear registros NS en contoso.com.
+
+B. Modifique el registro SOA en el registrador de dominios DNS.
+
+C. Cree el registro SOA en contoso.com.
+
+>D. Modifique los registros NS en el registrador de dominios DNS. 
+
+
+62# 
+HOTSPOT:
+tiene una suscripción de Azure que contiene una cuenta de almacenamiento denominada storage1. La suscripción está vinculada a un inquilino de Azure Active Directory (Azure AD) denominado contoso.com que se sincroniza con un dominio de Active Directory local.
+El dominio contiene las entidades de seguridad que se muestran en la tabla siguiente.
+
+![Alt text](image-30.png)
+
+En Azure AD, se crea un usuario denominado User2.
+La cuenta storage1 contiene un recurso compartido de archivos denominado share1 y tiene las siguientes configuraciones. 
+
+
+![Alt text](image-31.png)
+
+Para cada una de las siguientes instrucciones, seleccione Sí si la instrucción es verdadera. De lo contrario, seleccione No.NOTA: Cada selección correcta vale un punto.
+
+![Alt text](image-32.png)
+
+
+
+HOTSPOT:
+63#
+tiene una suscripción de Azure denominada Subscription1 que contiene una red virtual VNet1.
+Agregar los usuarios en la tabla siguiente.
+
+![Alt text](image-33.png)
+
+¿Qué usuario puede realizar cada configuración? Para responder, seleccione las opciones apropiadas en el área de respuesta.
+NOTA: Cada selección correcta vale un punto.
+Zona caliente: 
+
+![Alt text](image-34.png)
+
