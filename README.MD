@@ -1361,3 +1361,23 @@ Desde Azure Portal, debe crear dos roles personalizados denominados Rol3 y Rol4.
 NOTA: Cada selección correcta vale un punto.
 
 ![Alt text](image-49.png)
+
+
+
+83# 
+
+tiene una suscripción de Azure denominada Sub1 que contiene dos usuarios denominados User1 y User2.
+
+Debe asignar roles de control de acceso basado en roles (RBAC) a User1 y User2. Los usuarios deben poder realizar las siguientes tareas en Sub1:
+
+• Usuario1 debe ver los datos en cualquier cuenta de almacenamiento.
+• User2 debe asignar a los usuarios el rol Colaborador para las cuentas de almacenamiento.
+
+La solución debe utilizar el principio del privilegio mínimo.
+
+¿Qué rol RBAC debe asignar a cada usuario? Para responder, arrastre los roles apropiados a los usuarios correctos. Cada rol se puede usar una vez, más de una vez, o no se puede usar en absoluto. Es posible que deba arrastrar la barra dividida entre los paneles o desplazarse para ver el contenido.
+
+NOTA: Cada selección correcta vale un punto.
+
+
+![Alt text](image-50.png)
